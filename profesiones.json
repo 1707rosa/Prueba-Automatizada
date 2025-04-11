@@ -1,0 +1,30 @@
+[
+    {
+        "id": "67a1a98f58fbb",
+        "nombre": "piloto",
+        "categoria": "Ciencia",
+        "nivel_experiencia": "Principiante",
+        "salario": 21000
+    },
+    {
+        "id": "67a40f4a7e9e4",
+        "nombre": "Disenadora de Moda",
+        "categoria": "Arte",
+        "nivel_experiencia": "Avanzado",
+        "salario": 25000
+    },
+    {
+        "id": "67a40f7b92c5c",
+        "nombre": "Veterinaria",
+        "categoria": "Salud",
+        "nivel_experiencia": "Intermedio",
+        "salario": 10000
+    },
+    {
+        "id": "67a40fec1d3b5",
+        "nombre": "Beisbolista ",
+        "categoria": "Deporte",
+        "nivel_experiencia": "Avanzado",
+        "salario": 22000
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "id": "67a19ddb8443b",
+        "nombre": "Pamela",
+        "apellido": "Blanco",
+        "fecha_nacimiento": "2000-12-08",
+        "foto": "img\/barbie_medica.jpg",
+        "profesiones": [
+            {
+                "nombre": "medica",
+                "salario": 15000
+            }
+        ]
+    },
+    {
+        "id": "67a1a8e711c22",
+        "nombre": "Sofia ",
+        "apellido": "Guevara ",
+        "fecha_nacimiento": "2001-03-21",
+        "foto": "img\/Barbie_piloto.jpg",
+        "profesiones": [
+            {
+                "nombre": "piloto",
+                "salario": 21000
+            },
+            {
+                "nombre": "Veterinaria",
+                "salario": 10000
+            }
+        ]
+    },
+    {
+        "id": "67a1b05b3b8a1",
+        "nombre": "Monica",
+        "apellido": "Perez",
+        "fecha_nacimiento": "1999-05-07",
+        "foto": "img\/barbie-veterinaria.jpg",
+        "profesiones": [
+            {
+                "nombre": "veterinaria",
+                "salario": 10000
+            }
+        ]
+    },
+    {
+        "id": "67a410ac75ed5",
+        "nombre": "Nathalie",
+        "apellido": "Gonzales ",
+        "fecha_nacimiento": "1995-06-01",
+        "foto": "img\/disenadora.jpg",
+        "profesiones": [
+            {
+                "nombre": "disenadora de moda",
+                "salario": 25000
+            },
+            {
+                "nombre": "pilotp",
+                "salario": 21000
+            }
+        ]
+    }
+]
